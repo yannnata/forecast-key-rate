@@ -1,15 +1,15 @@
 ---
-question_id: key-rate-2026-12
-author: yannnata
-topic: Денежно-кредитная политика России
-opens: 2026-11-12
-resolve_by: 2026-12-18
-horizon: Н2
-date_set_by: Банк России
-forecast_pct: 35
-ai_baseline_pct: 25
-ai_model: GPT-6, 12.11.2026
-status: открыт
+question_id: "key-rate-2026-12"
+author: "yannnata"
+topic: "Денежно-кредитная политика России"
+opens: "2026-11-12"
+resolve_by: "2026-12-18"
+horizon: "Н2"
+date_set_by: "Банк России"
+forecast_pct: "35"
+ai_baseline_pct: "25"
+ai_model: "GPT-6, 12.11.2026"
+status: "открыт"
 outcome: -
 ---
 
